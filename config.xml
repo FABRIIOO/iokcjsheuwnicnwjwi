@@ -4,6 +4,8 @@
     <description>
         A blank PhoneGap app.
     </description>
+    <preference name="android-minSdkVersion" value="7" />
+	<preference name="android-maxSdkVersion" value="23" />
     <author email="support@phonegap.com" href="http://phonegap.com">
         PhoneGap Team
     </author>
