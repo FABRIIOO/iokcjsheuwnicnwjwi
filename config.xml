@@ -9,4 +9,7 @@
     </author>
     <content src="index.html" />
     <access origin="*" />
+    	<access origin="htttp://plistone.requestwf.com.br/codigo_php/busca_instrumento.php" subdomains="false" />
+		<access origin="http://plistone.requestwf.com.br/codigo_php/login_app.php" subdomains="false" />
+		
 </widget>
