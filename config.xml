@@ -6,6 +6,8 @@
     </description>
     <preference name="android-minSdkVersion" value="7" />
 	<preference name="android-maxSdkVersion" value="23" />
+	<platform name="android">
+		</platform>
     <author email="support@phonegap.com" href="http://phonegap.com">
         PhoneGap Team
     </author>
