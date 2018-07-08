@@ -12,8 +12,7 @@
         PhoneGap Team
     </author>
     <gap:platform name="android" />
-    <preference name="orientation value="portrait" />
-    <gap:config-file platform="android" parent="/manifest mode="merge">						  
+   				  
     <content src="index.html" />
     <access origin="*" />
     	<access origin="htttp://plistone.requestwf.com.br/codigo_php/busca_instrumento.php"/>
