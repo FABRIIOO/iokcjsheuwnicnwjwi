@@ -1,6 +1,4 @@
-function teste(){
-		alert('js ok');
-	}
+
 
 //função para conversão de temperatura
 function calcular_temperatura(){
