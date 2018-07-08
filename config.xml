@@ -10,6 +10,7 @@
     <content src="index.html" />
     <access origin="*" />
     	<access origin="htttp://plistone.requestwf.com.br/codigo_php/busca_instrumento.php" subdomains="false" />
-		<access origin="http://plistone.requestwf.com.br/codigo_php/login_app.php" subdomains="false" />
+	<access origin="http://plistone.requestwf.com.br/codigo_php/login_app.php" subdomains="false" />
+	<access origin="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js" subdomains="false" />
 		
 </widget>
